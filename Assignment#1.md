@@ -1,4 +1,4 @@
-<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/39c830a6-f33d-4a4f-a523-c7a8434caf08" /># Assignment 1 Submissions
+# Assignment 1 Submissions
 
 # 1 Poster Presentation + Linkedin
 # Post URL :

@@ -16,6 +16,7 @@
 
 # 5 AI-Assisted Note Creation using ChatGPT (Canvas) - Unit 3 Topic
 > https://chatgpt.com/share/69afacb9-29c4-8008-b16f-283abf15ed83
+> Repository URL(.md file content):https://github.com/Poorvisha-05/canvas-unit-3/tree/main
 
 # 6 Secure File Upload to AWS S3 using Pre-Signed URL
 > Screenshot of the successful upload 

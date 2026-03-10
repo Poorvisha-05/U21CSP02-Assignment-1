@@ -1,4 +1,4 @@
-# Assignment 1 Submissions
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/39c830a6-f33d-4a4f-a523-c7a8434caf08" /># Assignment 1 Submissions
 
 # 1 Poster Presentation + Linkedin
 # Post URL :
@@ -9,6 +9,8 @@
 # 2 GitHub Students Developers Pack
 > Linkedin Post URL : https://www.linkedin.com/posts/poorvisha-s-4a6170328_github-githubstudentdeveloperpack-studentdeveloper-activity-7437024514510766080-uRow?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKbBb4BCgLVeIPOS-BVz6boVOWmx1Set3g
 >  [GitHub Students Developers Pack Screenshot]
+
+<img width="1919" height="970" alt="Screenshot 2026-03-10 204329" src="https://github.com/user-attachments/assets/24069950-2509-4db1-9d29-e554f64461eb" />
 
 # 3 AI-Assisted Note Creation using NotebookLM - Unit 1 Topics
 > NoteBookLM URL : https://notebooklm.google.com/notebook/9c1761a6-e87d-4202-b214-f3f139af9596

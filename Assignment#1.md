@@ -9,14 +9,14 @@
 > [GitHub Students Developers Pack Screenshot]
 
 # 3 AI-Assisted Note Creation using NotebookLM - Unit 1 Topics
-> https://notebooklm.google.com/notebook/9c1761a6-e87d-4202-b214-f3f139af9596
+> NoteBookLM URL : https://notebooklm.google.com/notebook/9c1761a6-e87d-4202-b214-f3f139af9596
 
 # 4 AI-Assisted Note Creation using Claude (Artifacts) - Unit 2 Topics
-> https://claude.ai/share/4a0fdb6b-633d-4e26-a24f-88adc51a6c65
+> Claude URL : https://claude.ai/share/4a0fdb6b-633d-4e26-a24f-88adc51a6c65
 
 # 5 AI-Assisted Note Creation using ChatGPT (Canvas) - Unit 3 Topic
-> https://chatgpt.com/share/69afacb9-29c4-8008-b16f-283abf15ed83
-> Repository URL(.md file content):https://github.com/Poorvisha-05/canvas-unit-3/tree/main
+> Chatgpt Canvas URL : https://chatgpt.com/share/69afacb9-29c4-8008-b16f-283abf15ed83
+> Repository URL(.md file content): https://github.com/Poorvisha-05/canvas-unit-3/tree/main
 
 # 6 Secure File Upload to AWS S3 using Pre-Signed URL
 > Screenshot of the successful upload 

@@ -5,7 +5,7 @@
 > https://www.linkedin.com/in/poorvisha-s-4a6170328?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 # 2 GitHub Students Developers Pack
-> Enter the GitHub Students Developers Pack Screenshot
+  Linkedin Post URL : https://www.linkedin.com/posts/poorvisha-s-4a6170328_github-githubstudentdeveloperpack-studentdeveloper-activity-7437024514510766080-uRow?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKbBb4BCgLVeIPOS-BVz6boVOWmx1Set3g
 > [GitHub Students Developers Pack Screenshot]
 
 # 3 AI-Assisted Note Creation using NotebookLM - Unit 1 Topics
